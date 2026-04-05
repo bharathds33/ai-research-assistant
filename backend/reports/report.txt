@@ -1,0 +1,43 @@
+============================================================
+WEB RESEARCH REPORT
+============================================================
+TOPIC: what is artificial intelligence
+
+OVERVIEW
+------------------------------------------------------------
+5 relevant sources were found for this topic.
+
+KEY FINDINGS
+------------------------------------------------------------
+1. Artificial Intelligence (AI) Basics for Beginners | Learning Tree
+   Summary: ## What Is Artificial Intelligence and How Does It Work?
+
+Artificial Intelligence (AI) refers to computer systems or machines engineered to perform tasks that typically require human intelligence. These tasks include learning from experience, recognizing complex patterns, understanding human languag...
+   Source: https://www.learningtree.com/blog/a-beginners-guide-to-understanding-ai/
+
+2. What is Artificial intelligence (AI)? - Michigan Technological University
+   Summary: # What is Artificial intelligence (AI)?
+
+Artificial intelligence (AI) encompasses the fields of computer and data science focused on building machines with human intelligence to perform tasks like learning, reasoning, problem-solving, perception, and language understanding. Instead of relying on exp...
+   Source: https://www.mtu.edu/computing/ai/
+
+3. What is Artificial Intelligence (AI)? | Google Cloud
+   Summary: Learn how to innovate with AI ?
+
+Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that used to require human intelligence, such as understanding language, analyzing data, and even providing helpful suggest...
+   Source: https://cloud.google.com/learn/what-is-artificial-intelligence
+
+4. What is Artificial Intelligence? - NASA
+   Summary: Any artificial system that performs tasks under varying and unpredictable circumstances without significant human oversight, or that can learn from experience and improve performance when exposed to data sets.
+   An artificial system developed in computer software, physical hardware, or other contex...
+   Source: https://www.nasa.gov/what-is-artificial-intelligence/
+
+5. How Does AI Work? Basics to Know - Coursera
+   Summary: ## Artificial intelligence definition: What is AI?
+
+Artificial intelligence is the theory and discipline of programming computer systems to learn from and spot patterns in data sets. These advanced algorithms and models perform human tasks, like recognizing speech or images and making decisions. AI ...
+   Source: https://www.coursera.org/articles/how-does-ai-work
+
+CONCLUSION
+------------------------------------------------------------
+This report is generated directly from live Tavily web search results.

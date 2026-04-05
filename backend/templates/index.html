@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Web Research Assistant</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="page">
+        <header class="hero">
+            <div class="badge">Client Demo</div>
+            <h1>Web Research Assistant</h1>
+            <p>
+                Search live web sources and generate structured topic reports with clean summaries and source links.
+            </p>
+        </header>
+
+        <main class="container">
+            <section class="panel left-panel">
+                <h2>Enter Research Topic</h2>
+                <p class="subtext">
+                    Type a topic and generate a live research report from web search results.
+                </p>
+
+                <textarea
+                    id="queryInput"
+                    placeholder="Example: Future of AI in cricket coaching and fan engagement"
+                ></textarea>
+
+                <div class="button-row">
+                    <button id="analyzeBtn">Generate Report</button>
+                    <button id="clearBtn" class="secondary-btn">Clear</button>
+                </div>
+
+                <div id="statusBox" class="status hidden"></div>
+            </section>
+
+            <section class="panel right-panel">
+                <div class="report-header">
+                    <h2>Generated Report</h2>
+                    <button id="downloadBtn" class="secondary-btn" disabled>Download</button>
+                </div>
+
+                <div id="reportContainer" class="report-placeholder">
+                    Your generated report will appear here.
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
